@@ -1,2 +1,2 @@
-# Ecommernce-Customer-Churn_prediction
-Ecommernce-Customer-Churn_prediction
+# Shipment Price Prediction Project
+
