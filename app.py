@@ -1,0 +1,1 @@
+from shipment.components import data_ingestion
